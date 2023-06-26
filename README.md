@@ -10,7 +10,7 @@ This code is written in Python 3.8.12
 Run the codes as follows:
 
 ##### (optional) 0. Install packages:
-```python
+```bash
 pip install -r requirements.txt
 ```
 
