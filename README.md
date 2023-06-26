@@ -16,11 +16,11 @@ pip install -r requirements.txt
 
 ##### 1. Build datasets:
 
-```python
+```bash
 python build_dataset.py
 ```
 ##### 2. train models:
-```python
+```bash
 python train.py
 ```
 
